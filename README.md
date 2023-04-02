@@ -18,10 +18,6 @@ Sricharan Yedu Thirnathi (st122037) \
 Panuvit Chantara (st121410) \
 Sai Preetham Kamishetty (st122038) \
 
-## Contributions
-
-![Contributions](https://user-images.githubusercontent.com/97950172/163948774-4c3ac69d-1fc1-4bc1-add9-a69c5366c306.png)
-
 
 ## Containerization
 
@@ -29,4 +25,3 @@ The current repo contains a monolithic version of the application that can be in
 1. https://github.com/panuvitchantara/reminder.git
 2. https://github.com/panuvitchantara/reminder_microservice
 3. http://sad1-a.cs.ait.ac.th:8000/
-
